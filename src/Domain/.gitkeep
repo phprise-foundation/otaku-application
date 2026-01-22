@@ -1,0 +1,4 @@
+# Domain Layer: The Heart of the Business
+# 1. Contains: Entities, Value Objects, Domain Services, and Repository Interfaces.
+# 2. Rule: Zero dependencies on external layers (Infrastructure, Interface, etc.).
+# 3. Purpose: Define business rules and "Ubiqutous Language".

@@ -1,0 +1,10 @@
+/vendor/
+/composer.lock
+/phpunit.xml
+/.phpstorm.meta.php
+/.idea/
+/.vscode/
+/build/
+.env
+.env.*
+!.env.example

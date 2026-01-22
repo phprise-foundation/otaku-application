@@ -1,0 +1,4 @@
+# Application Layer: Orchestration
+# 1. Contains: Use Cases, Command/Query Handlers, and Application Services.
+# 2. Rule: Coordinates the flow between Domain and Infrastructure.
+# 3. Purpose: Implement the application's specific business flows.
