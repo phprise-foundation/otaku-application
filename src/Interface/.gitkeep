@@ -1,0 +1,4 @@
+# Interface Layer: Entry Points
+# 1. Contains: Controllers, CLI Commands, and API definitions (OpenAPI).
+# 2. Rule: Transform external input into application-understandable formats.
+# 3. Purpose: Define how the system interacts with the outside world.

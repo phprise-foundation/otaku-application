@@ -1,0 +1,4 @@
+# Infrastructure Layer: Technical Details
+# 1. Contains: Repository implementations (SQL, API), Mailers, and external connectors.
+# 2. Rule: Implements interfaces defined in the Domain or Application layers.
+# 3. Purpose: Isolate technology-specific logic from the core business.

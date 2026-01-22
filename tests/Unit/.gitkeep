@@ -1,0 +1,3 @@
+# Unit tests for Application layer
+# Mandatory: Every logic path must be covered by unit tests.
+# These tests verify the contract implementation in src/.
