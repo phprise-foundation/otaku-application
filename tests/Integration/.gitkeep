@@ -1,0 +1,3 @@
+# Integration tests for Application layer
+# Mandatory: Every entry point path must be covered by integration tests.
+# These tests verify the contract implementation in src/.
