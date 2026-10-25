@@ -1,7 +1,7 @@
 # {{PROJECT_NAME}}
 
 The Application Repository is the core of the business logic.
-This is a template for an [Application Repository](docs/PHILOSOPHY.md#3-application-repositories-the-core) based on the [OTAKU Manifesto](docs/PHILOSOPHY.md).
+This is a template for an [Application Repository](https://otakumanifesto.org/shapes/) based on the [OTAKU Manifesto](https://otakumanifesto.org/manifesto/).
 
 ## Characteristics
 - **The Core**: Implementation of the Business Heart.
@@ -31,12 +31,12 @@ php -S localhost:8000 -t public
 
 ## Philosophy
 We follow **The OTAKU Manifesto: Fluid Structure Design**.
-Please read more about it in [PHILOSOPHY.md](docs/PHILOSOPHY.md).
+Please read more about it in [OTAKU Manifesto](https://otakumanifesto.org/manifesto/).
 See our security policy in [SECURITY.md](SECURITY.md).
 
 ## Documents
 
-- [`docs/PHILOSOPHY.md`](docs/PHILOSOPHY.md) — the doctrine.
-- [`docs/GUIDE.md`](docs/GUIDE.md) — how to apply the rules.
+- [OTAKU Manifesto](https://otakumanifesto.org/manifesto/) — the doctrine.
+- [OTAKU Guide](https://otakumanifesto.org/guide/) — how to apply the rules.
 - [`docs/GITFLOW.md`](docs/GITFLOW.md) — git workflow.
 - [`docs/STATE.md`](docs/STATE.md), [`docs/ROADMAP.md`](docs/ROADMAP.md), [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) — project state.

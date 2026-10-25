@@ -3,7 +3,7 @@
 ## Overview
 
 This is an **Application** repository (see the repository taxonomy in
-[`PHILOSOPHY.md`](PHILOSOPHY.md)): the living system, built with DDD and Clean
+[OTAKU Manifesto](https://otakumanifesto.org/manifesto/)): the living system, built with DDD and Clean
 Architecture.
 
 ## Layers
